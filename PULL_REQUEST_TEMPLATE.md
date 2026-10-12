@@ -1,6 +1,6 @@
 ## Subtarefa
 
-<!-- ID e título da subtarefa do backlog, ex.: EP06-US01-T01 — Criar o esqueleto do serviço -->
+<!-- ID e título da subtarefa do backlog, ex.: EP07-US01-T01 — Cadastrar a empresa -->
 
 ## Resumo da mudança
 
