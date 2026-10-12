@@ -17,6 +17,15 @@
 - [ ] Testes unitários adicionados ou atualizados
 - [ ] Testes de integração adicionados ou atualizados, quando a mudança expõe ou altera endpoints
 
+## Revisão por IA
+
+- [ ] Revisada por IA durante a subtarefa
+- [ ] Não se aplica (motivo: )
+
+Achados não corrigidos:
+
+<!-- Um por linha: achado, severidade e decisão (aceito, adiado para outra subtarefa). Escreva "Nenhum" se todos foram corrigidos -->
+
 ## Observações
 
 <!-- Decisões tomadas, pendências ou pontos de atenção. Apague a seção se não houver -->
